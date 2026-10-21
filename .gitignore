@@ -1,0 +1,4 @@
+# Local-only build tools & generated assets (not part of the live site)
+catalog.html
+make-catalog.bat
+SOIPOI-Catalog.pdf

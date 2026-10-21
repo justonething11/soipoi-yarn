@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://justonething11.github.io/soipoi-yarn/sitemap.xml
